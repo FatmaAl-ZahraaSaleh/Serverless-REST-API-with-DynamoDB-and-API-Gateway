@@ -8,7 +8,7 @@
 - [Project Flow](#project-flow)
 ## High-level overview of the project:
 ![Architecture](Image.png)
-## AWS Services Used:
+## key AWS Services Used:
 This is an architecture for a Serverless Image Processing on AWS using the following services:  
 
 * **Amazon S3:** Stores original and processed images.  
