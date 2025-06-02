@@ -1,4 +1,4 @@
-# Serverless Image Processing with S3 and Lambda
+# AWS Architecture Serverless Image Processing with S3 and Lambda
 ## Content:
 - [High-level overview of the project](#high-level-overview-of-the-project)
 - [Key AWS Services Used](#key-aws-services-used)
