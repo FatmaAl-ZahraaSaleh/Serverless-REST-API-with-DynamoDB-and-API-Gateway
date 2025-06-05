@@ -7,7 +7,7 @@
 - [Security Considerations](#Security-Considerations)
 - [Project Flow](#project-flow)
 ## High-level overview of the project:
-![Architecture](Image.png)
+![Architecture](Serverless.png)
 ## Key AWS Services Used:
 This is an architecture for a Serverless Image Processing on AWS using the following services:  
 
